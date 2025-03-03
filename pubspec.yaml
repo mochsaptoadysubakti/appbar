@@ -42,4 +42,3 @@ flutter_icons:
   image_path: "assets/images/app_icon.png"
   adaptive_icon_background: "#ffffff"  # Opsional (untuk Android adaptive icon)
   adaptive_icon_foreground: "assets/images/app_icon_foreground.png"  # Opsional
-
